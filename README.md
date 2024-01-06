@@ -1,4 +1,4 @@
-# Haskell study
+# Haskell Study with Monad LAB members
 
 ![what_is_Haskell](https://github.com/monad-lab/study/assets/52768707/532f65fa-d8cd-46ee-9abf-7fb9865c8078)
 
