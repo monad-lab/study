@@ -3,9 +3,10 @@
 ![what_is_Haskell](https://github.com/monad-lab/study/assets/52768707/532f65fa-d8cd-46ee-9abf-7fb9865c8078)
 
 # Textbook
-Learn you a Haskell for Great Good!: A Beginner's Guide - by Miran Lipovaca
+### Learn you a Haskell for Great Good!: A Beginner's Guide - by Miran Lipovaca
 ![textbookimage](https://github.com/monad-lab/study/assets/52768707/92dcf5dd-251d-48a3-a6bc-0f4ab04f2dca)
 
+  
 ## reference
 - [Hoogle: search function source code](https://hoogle.haskell.org)
   
