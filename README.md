@@ -28,6 +28,6 @@
 |---|---|---|---|
 |찬우|[@temp](temp)|영준|[@temp](temp)|
 |예리|[@py6578](https://github.com/py6578)|호준|[@temp](temp)|
-|이삭|[@Tentoto](https://github.com/Tentoto)|효빈|[@temp](temp)|
+|이삭|[@Tentoto](https://github.com/Tentoto)|효빈|[@ds03023](https://github.com/PingPingE)|
 |준희|[@temp](temp)|준형|[@temp](temp)|
 |창호|[@temp](temp)|현재|[@temp](temp)|
