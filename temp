@@ -1,0 +1,6 @@
+map' f [] = []
+map' f (x:xs) = (f x) : map' f xs
+
+main :: IO ()
+main = 
+  print $ map' (+3) [1,5,3,1,6] 
